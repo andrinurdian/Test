@@ -1,3 +1,3 @@
 hello
 Topan,Tirto,samuel
-garut,pati,batak
+garut,pati,batak,arab
